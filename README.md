@@ -17,9 +17,8 @@ It is built using a **Retrieval-Augmented Generation (RAG)** pipeline, allowing 
 
 ## 🔗 Chatflow File
 
-👉 Download or use the chatflow here:
-**[Open Chatflow JSON](YOUR_LINK_HERE)**
-
+👉 Download the chatflow:  
+https://raw.githubusercontent.com/Mohsenjedi/my-flowise-project/main/1%20Chatflow.json
 ---
 
 ## 🧠 Architecture
